@@ -1,0 +1,333 @@
+[
+    {
+        "theme": "Ocean blues",
+        "colors": [
+            "#056186",
+            "#0883A1",
+            "#00909E",
+            "#75BFD3",
+            "#CEE5E9"
+        ]
+    },
+    {
+        "theme": "Watersport",
+        "colors": [
+            "#EA8212",
+            "#BFE4EA",
+            "#78CDE0",
+            "#0A9195",
+            "#1F6F7C",
+            "#11454C"
+        ]
+    },
+    {
+        "theme": "Beach colore",
+        "colors": [
+            "#017369",
+            "#38A6A5",
+            "#BE926B",
+            "#F2C9B3",
+            "#BFB6AF"
+        ]
+    },
+    {
+        "theme": "Tropical waters",
+        "colors": [
+            "#64c5a5",
+            "#90f0dc",
+            "#c7fdf7",
+            "#8ffffd",
+            "#6dd8db"
+        ]
+    },
+    {
+        "theme": "Blue nights",
+        "colors": [
+            "#b6cbee",
+            "#a5bee7",
+            "#8eaee3",
+            "#80a0d6",
+            "#688ece"
+        ]
+    },
+    {
+        "theme": "Summer Blues",
+        "colors": [
+            "#caeef9",
+            "#8ad8f6",
+            "#7bc7dd",
+            "#00dbdb",
+            "#00838d"
+        ]
+    },
+    {
+        "theme": "Ocean sunset",
+        "colors": [
+            "#234855",
+            "#648287",
+            "#EAC69C",
+            "#D1AB89",
+            "#B8907B"
+        ]
+    },
+    {
+        "theme": "Ibiza beach",
+        "colors": [
+            "#FFFBF4",
+            "#DFD4B8",
+            "#4DBB9C",
+            "#35D2CB",
+            "#A9E4EB"
+        ]
+    },
+    {
+        "theme": "Maldives colors",
+        "colors": [
+            "#297261",
+            "#02192E",
+            "#1F5A01",
+            "#75CCB8",
+            "#F5F5F5"
+        ]
+    },
+    {
+        "theme": "Beach reef",
+        "colors": [
+            "#242B31",
+            "#2B4246",
+            "#66B9BE",
+            "#A2C4C7",
+            "#D6DBDF"
+        ]
+    },
+    {
+        "theme": "Sal de Ibiza",
+        "colors": [
+            "#B7E3E0",
+            "#E7DAD5",
+            "#B99372",
+            "#242223",
+            "#2A6BBD"
+        ]
+    },
+    {
+        "theme": "Sunset field",
+        "colors": [
+            "#6F452D",
+            "#B77651",
+            "#01393D",
+            "#56989F",
+            "#BED0D0"
+        ]
+    },
+    {
+        "theme": "Jungle",
+        "colors": [
+            "#BE6717",
+            "#D5D6D2",
+            "#A9B495",
+            "#357558",
+            "#023630"
+        ]
+    },
+    {
+        "theme": "Sun-kissed Coral",
+        "colors": [
+            "#FF7E5F",
+            "#FFB199",
+            "#FF7C7C",
+            "#FF9999",
+            "#FFC1C1"
+        ]
+    },
+    {
+        "theme": "Amber Dusk",
+        "colors": [
+            "#FF8C42",
+            "#FF6B6B",
+            "#FF3C38",
+            "#FFAAA5",
+            "#FFD6BA"
+        ]
+    },
+    {
+        "theme": "Blushing Horizon",
+        "colors": [
+            "#FF5E5B",
+            "#FF9966",
+            "#FF7F7F",
+            "#FFC3A0",
+            "#FFE1D6"
+        ]
+    },
+    {
+        "theme": "Citrus Bloom",
+        "colors": [
+            "#FF9A76",
+            "#FF6F61",
+            "#FF4E50",
+            "#FF9E9D",
+            "#FFD3C1"
+        ]
+    },
+    {
+        "theme": "Mango Salsa",
+        "colors": [
+            "#FF6F00",
+            "#FF8F00",
+            "#FFB300",
+            "#FF7043",
+            "#FFAB91"
+        ]
+    },
+    {
+        "theme": "Candy Sunset",
+        "colors": [
+            "#FF6663",
+            "#FFB347",
+            "#FF9AA2",
+            "#FFB7B2",
+            "#FFD1DC"
+        ]
+    },
+    {
+        "theme": "Peachy Sands",
+        "colors": [
+            "#FFAD60",
+            "#FF9472",
+            "#FF7A89",
+            "#FF92A5",
+            "#FFC5D0"
+        ]
+    },
+    {
+        "theme": "Desert Rose",
+        "colors": [
+            "#FF8E72",
+            "#FF6F61",
+            "#F76C6C",
+            "#FF9E9D",
+            "#FFC4B2"
+        ]
+    },
+    {
+        "theme": "Tangerine Dream",
+        "colors": [
+            "#FF8243",
+            "#FF5C57",
+            "#FF7373",
+            "#FFB6B6",
+            "#FFDCDC"
+        ]
+    },
+    {
+        "theme": "Flamingo Skies",
+        "colors": [
+            "#FF7B54",
+            "#FF6F91",
+            "#FF8E9E",
+            "#FFAAC9",
+            "#FFD3E0"
+        ]
+    },
+    {
+        "theme": "Berry Smoothie",
+        "colors": [
+            "#A62C5B",
+            "#D94F70",
+            "#F78DA7",
+            "#FFC1CC",
+            "#FFE4EC"
+        ]
+    },
+    {
+        "theme": "Citrus Punch",
+        "colors": [
+            "#FFA500",
+            "#FF6F00",
+            "#FFB347",
+            "#FFD580",
+            "#FFF2CC"
+        ]
+    },
+    {
+        "theme": "Avocado Toast",
+        "colors": [
+            "#556B2F",
+            "#6B8E23",
+            "#A2C523",
+            "#D4E157",
+            "#F5F5DC"
+        ]
+    },
+    {
+        "theme": "Spiced Chai",
+        "colors": [
+            "#7B3F00",
+            "#A0522D",
+            "#CD853F",
+            "#D2B48C",
+            "#F5F5DC"
+        ]
+    },
+    {
+        "theme": "Tomato Garden",
+        "colors": [
+            "#FF6347",
+            "#FF4500",
+            "#FF7F50",
+            "#FFB6A1",
+            "#FFDAB9"
+        ]
+    },
+    {
+        "theme": "Mango Lassi",
+        "colors": [
+            "#FFC324",
+            "#FFD166",
+            "#FFE28A",
+            "#FFF3B0",
+            "#FFF8DC"
+        ]
+    },
+    {
+        "theme": "Chocolate Fondue",
+        "colors": [
+            "#381819",
+            "#5C4033",
+            "#8B5E3C",
+            "#C19A6B",
+            "#EEDFCC"
+        ]
+    },
+    {
+        "theme": "Vanilla Cupcake",
+        "colors": [
+            "#FFF8E1",
+            "#FFECB3",
+            "#FFE0B2",
+            "#FFCCBC",
+            "#FFD9C0"
+        ]
+    },
+    {
+        "theme": "Green Tea Matcha",
+        "colors": [
+            "#556B2F",
+            "#739F3D",
+            "#B7D77A",
+            "#DFF6C5",
+            "#F0FFF0"
+        ]
+    },
+    {
+        "theme": "Pomegranate Salad",
+        "colors": [
+            "#8B0000",
+            "#A52A2A",
+            "#C21807",
+            "#FF6F61",
+            "#FFD8D8"
+        ]
+    }
+]
