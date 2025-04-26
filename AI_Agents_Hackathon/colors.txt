@@ -1,0 +1,15 @@
+Color themes
+
+1. Ocean blues - #056186 #0883A1 #00909E #75BFD3 #CEE5E9
+2. Watersport - #EA8212 #BFE4EA #78CDE0 #0A9195 #1F6F7C #11454C
+3. Beach colore -  #017369 #38A6A5 #BE926B #F2C9B3 #BFB6AF
+4. Tropical waters - #64c5a5 #90f0dc #c7fdf7 #8ffffd #6dd8db
+5. Blue nights - #b6cbee #a5bee7 #8eaee3 #80a0d6 #688ece
+6. Summer Blues - #caeef9 #8ad8f6 #7bc7dd #00dbdb #00838d
+7. Ocean sunset - #234855 #648287 #EAC69C #D1AB89 #B8907B
+8. Ibiza beach - #FFFBF4 #DFD4B8 #4DBB9C #35D2CB #A9E4EB
+9. Maldives colors - #297261 #02192E #1F5A01 #75CCB8 #F5F5F5
+10. Beach reef - #242B31 #2B4246 #66B9BE #A2C4C7 #D6DBDF
+11. Sal de Ibiza - #B7E3E0 #E7DAD5 #B99372 #242223 #2A6BBD
+12. Sunset field - #6F452D #B77651 #01393D #56989F #BED0D0
+13. Jungle - #BE6717 #D5D6D2 #A9B495 #357558 #023630
