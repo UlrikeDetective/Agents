@@ -1,0 +1,212 @@
+[
+    {
+        "Theme": "Sal de Ibiza",
+        "Company Name": "Salt Breeze Café",
+        "Description": "Coastal café featuring gourmet salts and tapas.",
+        "Type": "Café",
+        "Location": "Ibiza, Spain"
+    },
+    {
+        "Theme": "Sal de Ibiza",
+        "Company Name": "Turquoise Tide Boutique",
+        "Description": "High-end swimwear and boho chic accessories.",
+        "Type": "Boutique",
+        "Location": "Ibiza, Spain"
+    },
+    {
+        "Theme": "Sal de Ibiza",
+        "Company Name": "Casa Sal Hotel",
+        "Description": "Elegant boutique hotel with salt spa therapies.",
+        "Type": "Hotel",
+        "Location": "Formentera, Spain"
+    },
+    {
+        "Theme": "Sunset Field",
+        "Company Name": "Harvest Moon Café",
+        "Description": "Farm-to-table café in sunset hues.",
+        "Type": "Café",
+        "Location": "Sonoma, California"
+    },
+    {
+        "Theme": "Sunset Field",
+        "Company Name": "Amber Grove Boutique",
+        "Description": "Nature-inspired clothing and artisanal goods.",
+        "Type": "Boutique",
+        "Location": "Tuscany, Italy"
+    },
+    {
+        "Theme": "Sunset Field",
+        "Company Name": "Golden Horizon Inn",
+        "Description": "Boutique countryside hotel surrounded by fields.",
+        "Type": "Hotel",
+        "Location": "Provence, France"
+    },
+    {
+        "Theme": "Jungle",
+        "Company Name": "Wild Roots Café",
+        "Description": "Lush jungle-themed café with exotic fruits and coffees.",
+        "Type": "Café",
+        "Location": "Costa Rica"
+    },
+    {
+        "Theme": "Jungle",
+        "Company Name": "Verdant Boutique",
+        "Description": "Clothing and home décor made with natural fibers.",
+        "Type": "Boutique",
+        "Location": "Ubud, Bali"
+    },
+    {
+        "Theme": "Jungle",
+        "Company Name": "Canopy Lodge",
+        "Description": "Jungle eco-hotel offering canopy walks and yoga retreats.",
+        "Type": "Hotel",
+        "Location": "Belize"
+    },
+    {
+        "Theme": "Sun-kissed Coral",
+        "Company Name": "Coral Bay Café",
+        "Description": "Tropical café with fresh juices and seafood.",
+        "Type": "Café",
+        "Location": "Key Largo, Florida"
+    },
+    {
+        "Theme": "Sun-kissed Coral",
+        "Company Name": "Sunstone Boutique",
+        "Description": "Bohemian resort wear in coral hues.",
+        "Type": "Boutique",
+        "Location": "Maui, Hawaii"
+    },
+    {
+        "Theme": "Sun-kissed Coral",
+        "Company Name": "Tidekiss Inn",
+        "Description": "Boutique beachfront hotel with coral-themed rooms.",
+        "Type": "Hotel",
+        "Location": "Turks and Caicos"
+    },
+    {
+        "Theme": "Amber Dusk",
+        "Company Name": "Amber Glow Café",
+        "Description": "Sunset café with local wines and tapas.",
+        "Type": "Café",
+        "Location": "Santa Barbara, California"
+    },
+    {
+        "Theme": "Amber Dusk",
+        "Company Name": "Sundown Boutique",
+        "Description": "Sunset-toned fashion and artisan gifts.",
+        "Type": "Boutique",
+        "Location": "Valencia, Spain"
+    },
+    {
+        "Theme": "Amber Dusk",
+        "Company Name": "Golden Drift Hotel",
+        "Description": "Chic sunset-view hotel with rooftop bar.",
+        "Type": "Hotel",
+        "Location": "Santorini, Greece"
+    },
+    {
+        "Theme": "Blushing Horizon",
+        "Company Name": "Rose Sky Café",
+        "Description": "Dreamy café serving pastries and rose lattes.",
+        "Type": "Café",
+        "Location": "Cape Town, South Africa"
+    },
+    {
+        "Theme": "Blushing Horizon",
+        "Company Name": "Pink Horizon Boutique",
+        "Description": "Light, airy resort wear and linen fashion.",
+        "Type": "Boutique",
+        "Location": "Mykonos, Greece"
+    },
+    {
+        "Theme": "Blushing Horizon",
+        "Company Name": "Dusky Petals Hotel",
+        "Description": "Boutique hotel with pink-themed suites and spas.",
+        "Type": "Hotel",
+        "Location": "Corsica, France"
+    },
+    {
+        "Theme": "Citrus Bloom",
+        "Company Name": "Clementine Café",
+        "Description": "Bright café with fresh citrus dishes and desserts.",
+        "Type": "Café",
+        "Location": "Amalfi Coast, Italy"
+    },
+    {
+        "Theme": "Citrus Bloom",
+        "Company Name": "Sunburst Boutique",
+        "Description": "Vibrant beachwear and colorful prints.",
+        "Type": "Boutique",
+        "Location": "Seville, Spain"
+    },
+    {
+        "Theme": "Citrus Bloom",
+        "Company Name": "Bloomstay Hotel",
+        "Description": "Cheerful boutique hotel in a citrus orchard.",
+        "Type": "Hotel",
+        "Location": "Algarve, Portugal"
+    },
+    {
+        "Theme": "Mango Salsa",
+        "Company Name": "Spicy Mango Café",
+        "Description": "Tropical café serving mango-infused dishes.",
+        "Type": "Café",
+        "Location": "Playa del Carmen, Mexico"
+    },
+    {
+        "Theme": "Mango Salsa",
+        "Company Name": "Zest Boutique",
+        "Description": "Vibrant summer fashion and beach accessories.",
+        "Type": "Boutique",
+        "Location": "Oahu, Hawaii"
+    },
+    {
+        "Theme": "Mango Salsa",
+        "Company Name": "Casa Mango Hotel",
+        "Description": "Colorful boutique hotel with salsa nights.",
+        "Type": "Hotel",
+        "Location": "Cartagena, Colombia"
+    },
+    {
+        "Theme": "Candy Sunset",
+        "Company Name": "Sweet Skies Café",
+        "Description": "Candy-inspired café with desserts and cocktails.",
+        "Type": "Café",
+        "Location": "Miami, Florida"
+    },
+    {
+        "Theme": "Candy Sunset",
+        "Company Name": "Pastel Bay Boutique",
+        "Description": "Soft-toned beach fashion and accessories.",
+        "Type": "Boutique",
+        "Location": "Nice, France"
+    },
+    {
+        "Theme": "Candy Sunset",
+        "Company Name": "Cotton Candy Inn",
+        "Description": "Playful boutique hotel in pastel colors.",
+        "Type": "Hotel",
+        "Location": "Venice Beach, California"
+    },
+    {
+        "Theme": "Peachy Sands",
+        "Company Name": "Peach Grove Café",
+        "Description": "Laid-back café with peach-inspired drinks and brunches.",
+        "Type": "Café",
+        "Location": "Savannah, Georgia"
+    },
+    {
+        "Theme": "Peachy Sands",
+        "Company Name": "Sand & Peach Boutique",
+        "Description": "Beachwear boutique with peach, sand, and cream tones.",
+        "Type": "Boutique",
+        "Location": "Gold Coast, Australia"
+    },
+    {
+        "Theme": "Peachy Sands",
+        "Company Name": "Dune Bloom Hotel",
+        "Description": "Boutique hotel tucked in golden sandy dunes.",
+        "Type": "Hotel",
+        "Location": "Namibia Desert"
+    }
+]
